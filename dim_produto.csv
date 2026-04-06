@@ -1,0 +1,11 @@
+﻿id_produto,nome_produto,categoria,preco_unitario
+1,Notebook Pro,Computadores,4500
+2,Mouse Gamer,Periféricos,280
+3,Teclado Mecânico,Periféricos,650
+4,"Monitor 24""",Monitores,1200
+5,Headset USB,Periféricos,350
+6,Webcam HD,Periféricos,420
+7,SSD 480GB,Armazenamento,380
+8,Memória RAM 16GB,Armazenamento,520
+9,Cabo HDMI,Cabos,45
+10,Hub USB,Acessórios,90

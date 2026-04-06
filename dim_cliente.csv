@@ -1,0 +1,51 @@
+﻿id_cliente,nome_cliente,cidade,segmento,estado
+1,Cliente_001,Rio de Janeiro,Educação,CE
+2,Cliente_002,São Paulo,Governo,BA
+3,Cliente_003,Porto Alegre,Educação,RS
+4,Cliente_004,Curitiba,Governo,SP
+5,Cliente_005,Curitiba,Corporativo,RJ
+6,Cliente_006,Belo Horizonte,Governo,RS
+7,Cliente_007,Rio de Janeiro,Governo,PA
+8,Cliente_008,Rio de Janeiro,Corporativo,RJ
+9,Cliente_009,Fortaleza,Governo,RS
+10,Cliente_010,São Paulo,Varejo,CE
+11,Cliente_011,São Paulo,Corporativo,MG
+12,Cliente_012,Rio de Janeiro,Corporativo,BA
+13,Cliente_013,Curitiba,Corporativo,SP
+14,Cliente_014,Curitiba,Educação,RS
+15,Cliente_015,São Paulo,Educação,MG
+16,Cliente_016,Curitiba,Governo,RJ
+17,Cliente_017,Fortaleza,Corporativo,RS
+18,Cliente_018,Curitiba,Governo,PR
+19,Cliente_019,Salvador,Varejo,MG
+20,Cliente_020,Porto Alegre,Corporativo,PA
+21,Cliente_021,São Paulo,Varejo,MG
+22,Cliente_022,Belo Horizonte,Governo,SP
+23,Cliente_023,Fortaleza,Educação,PA
+24,Cliente_024,Belém,Governo,BA
+25,Cliente_025,Porto Alegre,Varejo,SP
+26,Cliente_026,Belo Horizonte,Corporativo,RJ
+27,Cliente_027,Curitiba,Governo,PA
+28,Cliente_028,Belém,Corporativo,RS
+29,Cliente_029,Rio de Janeiro,Educação,PR
+30,Cliente_030,Rio de Janeiro,Educação,SP
+31,Cliente_031,Fortaleza,Educação,PR
+32,Cliente_032,Rio de Janeiro,Corporativo,RJ
+33,Cliente_033,Belém,Governo,RJ
+34,Cliente_034,Belém,Corporativo,BA
+35,Cliente_035,Porto Alegre,Corporativo,RJ
+36,Cliente_036,São Paulo,Governo,MG
+37,Cliente_037,Salvador,Educação,MG
+38,Cliente_038,Rio de Janeiro,Educação,BA
+39,Cliente_039,Fortaleza,Governo,MG
+40,Cliente_040,Rio de Janeiro,Corporativo,RS
+41,Cliente_041,Porto Alegre,Corporativo,CE
+42,Cliente_042,Belém,Educação,PR
+43,Cliente_043,Curitiba,Varejo,PR
+44,Cliente_044,Rio de Janeiro,Varejo,RS
+45,Cliente_045,São Paulo,Varejo,CE
+46,Cliente_046,Curitiba,Corporativo,PA
+47,Cliente_047,Porto Alegre,Corporativo,BA
+48,Cliente_048,Rio de Janeiro,Educação,BA
+49,Cliente_049,Curitiba,Varejo,RJ
+50,Cliente_050,Rio de Janeiro,Educação,PR
